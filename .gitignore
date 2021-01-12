@@ -1,0 +1,5 @@
+*.o
+*.out
+.vscode
+Player.cpp
+Player.h
